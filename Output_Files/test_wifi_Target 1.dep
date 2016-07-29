@@ -1,0 +1,50 @@
+Dependencies for Project 'test_wifi', Target 'Target 1': (DO NOT MODIFY !)
+F (..\Source_Files\Driver_IncludeFiles\system_LPC17xx.c)(0x576A3583)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Source_Files\Common_Files -I..\Source_Files\Data_Process -I..\Source_Files\Driver_IncludeFiles -I..\Source_Files\Main_Files -I..\Source_Files\UART_Driver -I..\Source_Files\Wifi_Driver-I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="517"-o ..\output_files\system_lpc17xx.o --omf_browse ..\output_files\system_lpc17xx.crf --depend ..\output_files\system_lpc17xx.d)
+I (..\Source_Files\Driver_IncludeFiles\stdint.h)(0x55DB4EA8)
+I (..\Source_Files\Driver_IncludeFiles\LPC17xx.h)(0x50877D02)
+I (..\Source_Files\Driver_IncludeFiles\core_cm3.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\core_cmInstr.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\core_cmFunc.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\system_LPC17xx.h)(0x576A365B)
+F (..\Source_Files\Driver_IncludeFiles\startup_LPC17xx.s)(0x50877CD6)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 517"--list .\startup_lpc17xx.lst --xref -o ..\output_files\startup_lpc17xx.o --depend ..\output_files\startup_lpc17xx.d)
+F (..\Source_Files\Main_Files\test_wifi.c)(0x576D3B75)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Source_Files\Common_Files -I..\Source_Files\Data_Process -I..\Source_Files\Driver_IncludeFiles -I..\Source_Files\Main_Files -I..\Source_Files\UART_Driver -I..\Source_Files\Wifi_Driver-I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="517"-o ..\output_files\test_wifi.o --omf_browse ..\output_files\test_wifi.crf --depend ..\output_files\test_wifi.d)
+I (..\Source_Files\Driver_IncludeFiles\LPC17xx.H)(0x50877D02)
+I (..\Source_Files\Driver_IncludeFiles\core_cm3.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\stdint.h)(0x55DB4EA8)
+I (..\Source_Files\Driver_IncludeFiles\core_cmInstr.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\core_cmFunc.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\system_LPC17xx.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\string.h)(0x55DB4EA0)
+I (..\Source_Files\Common_Files\Common_Lables.h)(0x576D3F70)
+I (..\Source_Files\UART_Driver\Uart_Externs.h)(0x576D4196)
+I (..\Source_Files\Wifi_Driver\Wifi_Externs.h)(0x576D42A7)
+I (..\Source_Files\Data_Process\Data_Externs.h)(0x576CCB02)
+F (..\Source_Files\Data_Process\data.c)(0x576D3790)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Source_Files\Common_Files -I..\Source_Files\Data_Process -I..\Source_Files\Driver_IncludeFiles -I..\Source_Files\Main_Files -I..\Source_Files\UART_Driver -I..\Source_Files\Wifi_Driver-I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="517"-o ..\output_files\data.o --omf_browse ..\output_files\data.crf --depend ..\output_files\data.d)
+I (..\Source_Files\Driver_IncludeFiles\string.h)(0x55DB4EA0)
+I (..\Source_Files\Common_Files\Common_Lables.h)(0x576D3F70)
+I (..\Source_Files\Driver_IncludeFiles\stdint.h)(0x55DB4EA8)
+I (..\Source_Files\Data_Process\data.h)(0x576D375E)
+I (..\Source_Files\Wifi_Driver\Wifi_Externs.h)(0x576D42A7)
+F (..\Source_Files\UART_Driver\uart.c)(0x576D4273)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Source_Files\Common_Files -I..\Source_Files\Data_Process -I..\Source_Files\Driver_IncludeFiles -I..\Source_Files\Main_Files -I..\Source_Files\UART_Driver -I..\Source_Files\Wifi_Driver-I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="517"-o ..\output_files\uart.o --omf_browse ..\output_files\uart.crf --depend ..\output_files\uart.d)
+I (..\Source_Files\Driver_IncludeFiles\lpc17xx.h)(0x50877D02)
+I (..\Source_Files\Driver_IncludeFiles\core_cm3.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\stdint.h)(0x55DB4EA8)
+I (..\Source_Files\Driver_IncludeFiles\core_cmInstr.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\core_cmFunc.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\system_LPC17xx.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\string.h)(0x55DB4EA0)
+I (..\Source_Files\Common_Files\Common_Lables.h)(0x576D3F70)
+I (..\Source_Files\Wifi_Driver\Wifi_Externs.h)(0x576D42A7)
+I (..\Source_Files\UART_Driver\uart.h)(0x576D41B3)
+F (..\Source_Files\Wifi_Driver\wifi.c)(0x576D4405)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Source_Files\Common_Files -I..\Source_Files\Data_Process -I..\Source_Files\Driver_IncludeFiles -I..\Source_Files\Main_Files -I..\Source_Files\UART_Driver -I..\Source_Files\Wifi_Driver-I C:\Keil_v517\ARM\RV31\INC-I C:\Keil_v517\ARM\CMSIS\Include-I C:\Keil_v517\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="517"-o ..\output_files\wifi.o --omf_browse ..\output_files\wifi.crf --depend ..\output_files\wifi.d)
+I (..\Source_Files\Driver_IncludeFiles\string.h)(0x55DB4EA0)
+I (..\Source_Files\Driver_IncludeFiles\lpc17xx.h)(0x50877D02)
+I (..\Source_Files\Driver_IncludeFiles\core_cm3.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\stdint.h)(0x55DB4EA8)
+I (..\Source_Files\Driver_IncludeFiles\core_cmInstr.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\core_cmFunc.h)(0x576A365B)
+I (..\Source_Files\Driver_IncludeFiles\system_LPC17xx.h)(0x576A365B)
+I (..\Source_Files\Common_Files\Common_Lables.h)(0x576D3F70)
+I (..\Source_Files\Wifi_Driver\wifi.h)(0x576D4354)
+I (..\Source_Files\UART_Driver\Uart_Externs.h)(0x576D4196)
+I (..\Source_Files\Data_Process\Data_Externs.h)(0x576CCB02)

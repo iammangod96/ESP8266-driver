@@ -1,0 +1,26 @@
+*** Creating Trace Output File '..\Output_Files\test_wifi.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output_files\system_lpc17xx.o"'
+### List of Objects: adding '"..\output_files\startup_lpc17xx.o"'
+### List of Objects: adding '"..\output_files\test_wifi.o"'
+### List of Objects: adding '"..\output_files\data.o"'
+### List of Objects: adding '"..\output_files\uart.o"'
+### List of Objects: adding '"..\output_files\wifi.o"'
+### List of Objects: adding '"..\output_files\timer.o"'
+### List of Objects: adding '"..\output_files\timer1.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output_files\system_lpc17xx.o" "..\output_files\startup_lpc17xx.o" "..\output_files\test_wifi.o" "..\output_files\data.o" "..\output_files\uart.o" "..\output_files\wifi.o" "..\output_files\timer.o" "..\output_files\timer1.o" 
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x10000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\test_wifi.map" -o ..\Output_Files\test_wifi.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output_Files\test_wifi.axf'
+### ADS-LD Command File: '..\Output_Files\test_wifi.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output_Files\test_wifi.lnp', Handle=0x00000D14
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output_Files\test_wifi.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
